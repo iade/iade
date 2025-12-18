@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ​
- <p align="center">
+<p align="center">
   <a href="https://idrisadesanya.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B8995C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Idris+Adesanya;Cybersecurity+Consultant" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/Idris_Adesanya-Cybersecurity_Consultant-b8995c?style=for-the-badge&labelColor=001d45" alt="Idris Adesanya - Cybersecurity Consultant"/>
   </a>
 </p>
 <p align="center">
