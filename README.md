@@ -112,6 +112,8 @@ Independent consultant helping organizations understand their security posture t
 ![Nuclei](https://img.shields.io/badge/Nuclei-7C3AED?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
 ![Caido](https://img.shields.io/badge/Caido-000000?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-5C5C5C?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge)
 
 </details>
 
@@ -125,6 +127,7 @@ Independent consultant helping organizations understand their security posture t
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-5849BE?style=for-the-badge)
 
 </details>
 
@@ -148,6 +151,7 @@ Independent consultant helping organizations understand their security posture t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </details>
 
